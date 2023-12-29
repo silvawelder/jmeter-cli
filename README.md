@@ -21,3 +21,10 @@
 | -l         | --logfile <argument>            | the file to log samples to                |
 | -e         | --reportatendofloadtests        | generate report dashboard after load test |
 | -o         | --reportoutputfolder <argument> | output folder for report dashboard        |
+
+
+For more information about jmeter CLI Invok the follow command:
+
+```
+jmeter -?
+```
